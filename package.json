@@ -1,0 +1,67 @@
+{
+  "name": "validate-ip-node",
+  "version": "1.0.0",
+  "description": "Validate IPv4 addresses.",
+  "keywords": [
+    "validate",
+    "ip",
+    "ipv4",
+    "addresses",
+    "node"
+  ],
+  "homepage": "https://github.com/AnatoliyGatt/validate-ip-node",
+  "bugs": {
+    "url": "https://github.com/AnatoliyGatt/validate-ip-node/issues",
+    "email": "anatoliy.gatt@aol.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Anatoliy Gatt",
+    "email": "anatoliy.gatt@aol.com",
+    "url": null
+  },
+  "contributors": [],
+  "files": [
+    "LICENSE",
+    "CHANGELOG.md",
+    "README.md",
+    "index.js",
+    "lib/"
+  ],
+  "main": "index.js",
+  "bin": {},
+  "man": {},
+  "directories": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnatoliyGatt/validate-ip-node.git"
+  },
+  "scripts": {
+    "test": "mocha --colors --sort --bail --reporter spec --check-leaks --full-trace --no-timeouts --recursive ./test/*.js"
+  },
+  "config": {},
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "peerDependencies": {},
+  "bundledDependencies": [],
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "cpu": [
+    "x64",
+    "ia32",
+    "arm",
+    "mips"
+  ],
+  "preferGlobal": false,
+  "private": false,
+  "publishConfig": ""
+}
