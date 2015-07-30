@@ -11,8 +11,8 @@
 
 /**
  * @public
- * @description Expose function to validate IPv4 addresses.
- * @returns {Function} - Function to validate IPv4 addresses.
+ * @description Expose function to validate IP addresses.
+ * @returns {Function} - Function to validate IP addresses.
  */
 
 module.exports = require("./lib/validate-ip");
