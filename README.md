@@ -1,6 +1,6 @@
 # validate-ip for Node.js
 
-Validate IPv4 addresses.
+Validate IP addresses.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -20,11 +20,16 @@ var validateIP = require("validate-ip-node");
 
 console.log(validateIP("46.19.37.108"));
 console.log(validateIP("46.19.37"));
+
+console.log(validateIP("2a02:2770::21a:4aff:feb3:2ee"));
+console.log(validateIP("2a02:2770"));
 ```
 
 ***
 
 ```javascript
+true
+false
 true
 false
 ```
