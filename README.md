@@ -1,6 +1,6 @@
 # validate-ip for Node.js
 
-Validate IP addresses.
+Validate IPv4 and IPv6 addresses.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
