@@ -1,4 +1,4 @@
-# validate-ip for Node.js
+![validate-ip-node Logo][logo]
 
 Validate IPv4 and IPv6 addresses.
 
@@ -52,6 +52,8 @@ $ npm test
 ## License
 
 Distributed under the [MIT License](LICENSE).
+
+[logo]: https://cldup.com/-EfNTzq88C.png
 
 [npm-package-url]: https://npmjs.org/package/validate-ip-node
 
