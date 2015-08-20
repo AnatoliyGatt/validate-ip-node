@@ -6,11 +6,11 @@
 1.0.1 / 2015-07-30
 ==================
 
-* Updated package.json
-* Updated README.md
-* Updated index.js documentation comments
-* Updated validate-ip.js documentation comments
-* Added feature to validate IPv6 addresses
+* Update package.json
+* Update README.md
+* Update index.js documentation comments
+* Update validate-ip.js documentation comments
+* Add feature to validate IPv6 addresses
 
 1.0.0 / 2015-07-29
 ==================
