@@ -49,14 +49,14 @@ Distributed under the [MIT License](LICENSE).
 
 [npm-package-url]: https://npmjs.org/package/validate-ip-node
 
-[npm-package-version-badge]: https://img.shields.io/npm/v/validate-ip-node.svg
+[npm-package-version-badge]: https://img.shields.io/npm/v/validate-ip-node.svg?style=flat-square
 
-[npm-package-license-badge]: https://img.shields.io/npm/l/validate-ip-node.svg
+[npm-package-license-badge]: https://img.shields.io/npm/l/validate-ip-node.svg?style=flat-square
 [npm-package-license-url]: http://opensource.org/licenses/MIT
 
-[npm-package-downloads-badge]: https://img.shields.io/npm/dm/validate-ip-node.svg
+[npm-package-downloads-badge]: https://img.shields.io/npm/dm/validate-ip-node.svg?style=flat-square
 
-[travis-ci-build-status-badge]: https://img.shields.io/travis/AnatoliyGatt/validate-ip-node.svg
+[travis-ci-build-status-badge]: https://img.shields.io/travis/AnatoliyGatt/validate-ip-node.svg?style=flat-square
 [travis-ci-build-status-page-url]: https://travis-ci.org/AnatoliyGatt/validate-ip-node
 
 [npm-package-statistics-badge]: https://nodei.co/npm/validate-ip-node.png?downloads=true&downloadRank=true&stars=true
