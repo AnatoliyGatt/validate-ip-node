@@ -6,7 +6,9 @@ Validate IPv4 and IPv6 addresses.
 [![NPM Package License][npm-package-license-badge]][npm-package-license-url]
 [![NPM Package Downloads][npm-package-downloads-badge]][npm-package-url]
 [![devDependencies Status][devDependencies-status-badge]][devDependencies-status-page-url]
+
 [![Travis CI Build Status][travis-ci-build-status-badge]][travis-ci-build-status-page-url]
+[![Code Climate Status][code-climate-status-badge]][code-climate-status-page-url]
 
 [![NPM Package Statistics][npm-package-statistics-badge]][npm-package-url]
 
@@ -62,5 +64,8 @@ Distributed under the [MIT License](LICENSE).
 
 [travis-ci-build-status-badge]: https://img.shields.io/travis/AnatoliyGatt/validate-ip-node.svg?style=flat-square
 [travis-ci-build-status-page-url]: https://travis-ci.org/AnatoliyGatt/validate-ip-node
+
+[code-climate-status-badge]: https://img.shields.io/codeclimate/github/AnatoliyGatt/validate-ip-node.svg?style=flat-square
+[code-climate-status-page-url]: https://codeclimate.com/github/AnatoliyGatt/validate-ip-node
 
 [npm-package-statistics-badge]: https://nodei.co/npm/validate-ip-node.png?downloads=true&downloadRank=true&stars=true
