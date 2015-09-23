@@ -7,7 +7,7 @@
  * @license MIT
  */
 
-"use strict";
+'use strict';
 
 /**
  * @public
@@ -15,4 +15,4 @@
  * @returns {Function} - Function to validate IP addresses.
  */
 
-module.exports = require("./lib/validate-ip");
+module.exports = require('./lib/validate-ip');
