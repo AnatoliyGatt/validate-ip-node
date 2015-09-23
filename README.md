@@ -22,13 +22,13 @@ Validate IPv4 and IPv6 addresses.
 ## Usage Example
 
 ```javascript
-var validateIP = require("validate-ip-node");
+var validateIP = require('validate-ip-node');
 
-console.log(validateIP("46.19.37.108"));
-console.log(validateIP("46.19.37"));
+console.log(validateIP('46.19.37.108'));
+console.log(validateIP('46.19.37'));
 
-console.log(validateIP("2a02:2770::21a:4aff:feb3:2ee"));
-console.log(validateIP("2a02:2770"));
+console.log(validateIP('2a02:2770::21a:4aff:feb3:2ee'));
+console.log(validateIP('2a02:2770'));
 ```
 
 ***
