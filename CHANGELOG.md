@@ -1,3 +1,18 @@
+1.0.4 / 2015-10-02
+==================
+
+* Add author.url to package.json
+* Replace " with ' in definitions of all strings in README.md code samples
+* Replace " with ' in definitions of all strings in index.js
+* Replace " with ' in definitions of all strings in validate-ip.js tests
+* Replace " with ' in definitions of all strings in validate-ip.js
+* Update .travis.yml to run tests against node v4.0.0
+* Update .travis.yml to run tests against all major versions of iojs from 1.0.0 to 3.0.0
+* Add iojs (>= 1.0.0) to engines in package.json
+* Add npm (>= 1.2.14) to engines in package.json
+* Fix node-download-page-url in README.md
+* Change node version from (>= 0.10.x) to (>= 0.10.0) in package.json
+
 1.0.3 / 2015-08-20
 ==================
 

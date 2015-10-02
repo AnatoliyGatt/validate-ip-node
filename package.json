@@ -1,6 +1,6 @@
 {
   "name": "validate-ip-node",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Validate IPv4 and IPv6 addresses.",
   "keywords": [
     "validate",
