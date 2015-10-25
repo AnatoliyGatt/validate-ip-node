@@ -1,3 +1,16 @@
+1.0.5 / 2015-10-25
+==================
+
+* Fix anonymous functions declaration coding style in validate-ip.js tests
+* Fix anonymous function declaration coding style in validate-ip.js
+* Fix 'else-if statement' coding style in validate-ip.js
+* Fix 'if statement' coding style in validate-ip.js
+* Update dev dependencies
+* Update .travis.yml to run tests against node v4.2.0
+* Remove manual deletion script of coverage directory in .travis.yml
+* Replace unencrypted CodeClimate repo_token with encrypted one in .travis.yml
+* Update .travis.yml to run tests against node v4.1.0
+
 1.0.4 / 2015-10-02
 ==================
 
