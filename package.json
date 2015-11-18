@@ -8,7 +8,7 @@
     "ip",
     "ipv4",
     "ipv6",
-    "addresses",
+    "address",
     "node"
   ],
   "homepage": "https://github.com/AnatoliyGatt/validate-ip-node",
