@@ -3,6 +3,7 @@
   "version": "1.0.5",
   "description": "Validate IPv4 and IPv6 addresses.",
   "keywords": [
+    "check",
     "validate",
     "ip",
     "ipv4",
