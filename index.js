@@ -3,7 +3,7 @@
  * @description Entry point for validate-ip-node module.
  * @version 1.0.6
  * @author Anatoliy Gatt [anatoliy.gatt@aol.com]
- * @copyright Copyright (c) 2015 Anatoliy Gatt
+ * @copyright Copyright (c) 2015-2016 Anatoliy Gatt
  * @license MIT
  */
 
